@@ -1,7 +1,5 @@
 # STUDENT GRADE TABLE
-#### Hey Teacher! Leave them Kids alone
-#### All we are is just another row on the Student Grade Table
---------------------------------------------------------------
+
 
 ### FEATURES:
 -   Keep track of student data, live, on the go
