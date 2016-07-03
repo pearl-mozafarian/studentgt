@@ -1,0 +1,11 @@
+.error {
+    text-align: center;
+    color: #ff6d6d;
+    height: auto;
+    border-radius: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+button:focus, button:active{
+    outline: none;
+}
