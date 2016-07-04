@@ -7,7 +7,7 @@
 -   User changes to the data is shown immediately to other users
 -------------------------------------------------------------
 
-### TECH STUFF:
+### Technology Used:
 - HTML5, CSS3,  Bootstrap
 - Angular
 - Firebase
